@@ -78,28 +78,6 @@ Logs → Splunk Ingestion → SPL Detection Rules → Alert Triage → Dashboard
 
 ---
 
-## 📁 Project Structure
-splunk-soc-log-analysis/
-│── logs/
-│ └── logs.csv
-│
-│── queries/
-│ ├── brute_force.spl
-│ ├── account_compromise.spl
-│ ├── suspicious_activity.spl
-│ ├── severity_distribution.spl
-│ ├── top_attackers.spl
-│ └── final_triage.spl
-│
-│── screenshots/
-│ ├── dashboard.png
-│ ├── brute_force.png
-│ └── triage.png
-│
-│── README.md
-
----
-
 ## 📈 Learning Outcomes
 - Hands-on experience with Splunk  
 - Writing SPL queries for threat detection  
